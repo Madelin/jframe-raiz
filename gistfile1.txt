@@ -17,7 +17,7 @@ public class Vector {
                   vec[i]= num;
                  System.out.println(vec[i]);
              }else{
-                 System.out.println("el numero que ingreso no es mayor que 8");
+                 System.out.println("el numero no es mayor que 8");
              }
                }
   }
